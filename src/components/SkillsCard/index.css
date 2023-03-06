@@ -1,0 +1,14 @@
+.skImg {
+  height: 20px;
+  width: 40px;
+}
+.scPara {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+}
+.scList {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}

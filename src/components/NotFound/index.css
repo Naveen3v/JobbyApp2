@@ -1,0 +1,16 @@
+.nfCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navImg {
+  height: 80px;
+  width: 150px;
+}
+.nfpara {
+  font-family: 'Robot';
+  font-size: 20px;
+  color: red;
+}

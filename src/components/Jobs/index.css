@@ -1,0 +1,50 @@
+.jobsmainCont {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  height: 100vh;
+}
+.jobsCont {
+  display: flex;
+  flex-direction: row;
+  padding: 2%;
+}
+.filterCont {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+}
+.jobsText {
+  color: white;
+}
+.jobslistCont {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.searchEle {
+  height: 30px;
+  width: 380px;
+  background-color: transparent;
+  color: white;
+  border: 0.5px solid white;
+  border-radius: 2px;
+}
+.lineFilter {
+  height: 1px;
+  width: 220px;
+  border: 1px solid white;
+}
+.teHeading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.employCont {
+  display: flex;
+  flex-direction: column;
+}
+.salaryCont {
+  display: flex;
+  flex-direction: column;
+}

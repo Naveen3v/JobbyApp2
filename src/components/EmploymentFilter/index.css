@@ -1,0 +1,9 @@
+.employList {
+  display: flex;
+  flex-direction: column;
+}
+.labelList {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: white;
+}

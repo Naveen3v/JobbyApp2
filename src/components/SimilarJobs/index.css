@@ -1,0 +1,38 @@
+.sjList {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  height: 280px;
+  width: 220px;
+  background-color: white;
+  border-radius: 2px;
+  padding: 1%;
+  margin-left: 1%;
+}
+.sjImg {
+  height: 20px;
+  width: 30px;
+}
+.sjImgCont {
+  display: flex;
+  flex-direction: row;
+}
+.sjImgTitle {
+  display: flex;
+  flex-direction: column;
+}
+.sjHeading {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: black;
+}
+.sjPara {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: black;
+}
+.SLocationImg {
+  height: 15px;
+  width: 30px;
+  color: red;
+}

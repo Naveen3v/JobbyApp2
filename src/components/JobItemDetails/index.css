@@ -1,0 +1,71 @@
+.jidCont {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: black;
+  overflow: auto;
+}
+.jid-cont {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  width: 90vw;
+  background-color: grey;
+  border-radius: 3px;
+  padding: 0.5%;
+  overflow: auto;
+}
+.jid-main {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5%;
+}
+.jidImg {
+  height: 40px;
+  width: 50px;
+}
+.jidimgCont {
+  display: flex;
+  flex-direction: row;
+  padding: 0.5%;
+}
+.jidImgHeadingCont {
+  display: flex;
+  flex-direction: column;
+}
+.jidHeading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.jidRatingCont {
+  display: flex;
+  flex-direction: row;
+}
+.skillsCont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.lac {
+  display: flex;
+  flex-direction: row;
+}
+.lacImg {
+  height: 30px;
+  width: 50px;
+}
+.sjCont {
+  display: flex;
+  flex-direction: row;
+}
+.jidlc {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.jidsj {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}

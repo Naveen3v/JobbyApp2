@@ -1,0 +1,82 @@
+.jcList {
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  width: 75vw;
+  border-radius: 3px;
+  background-color: #7e858e;
+  margin-top: 1%;
+  padding: 1%;
+}
+.jcImg {
+  height: 40px;
+  width: 30px;
+}
+.jcimgCont {
+  display: flex;
+  flex-direction: row;
+}
+.jcimgText {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1%;
+}
+.jcimgHeading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+
+.jcimgRating {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3%;
+  justify-content: flex-start;
+}
+.jcimgPara {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+  margin-left: 2%;
+}
+.jcStar {
+  height: 15px;
+  width: 30px;
+  color: gold;
+}
+.jcloc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.jclocleft {
+  display: flex;
+  flex-direction: row;
+}
+.jclocright {
+  display: flex;
+  flex-direction: row;
+}
+.jcLocationImg {
+  height: 15px;
+  width: 30px;
+  color: white;
+}
+.jcline {
+  height: 5px;
+  width: 70vw;
+  border: 3px solid white;
+}
+.jcdesPara {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.jcjobdes {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.jclink {
+  text-decoration: none;
+}
